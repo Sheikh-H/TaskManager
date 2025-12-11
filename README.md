@@ -186,6 +186,8 @@ SOFTWARE.
 <div align="center">
 	<a href="https://www.linkedin.com/in/sheikh-hussain/" target="_blank">By Sheikh Hussain 💚</a>  
 </div>
+
 ---
+
 
 <h2 align="center">⭐ If you like this project, please give it a star on GitHub!</h2>
